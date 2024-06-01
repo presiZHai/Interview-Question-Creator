@@ -1,4 +1,4 @@
-# Interview-Question-Creator
+# Interview-Question-Generator
 
 ### Tech stacks
 * Langchain
