@@ -5,7 +5,7 @@
 
 ### Create a conda environment
 
-'''bash
+```bash
 1. Create an environment
 conda create -n interview python=3.10 -y
 
@@ -13,10 +13,10 @@ conda create -n interview python=3.10 -y
 
 conda create interview
 
-'''
+```
 
 ### GitHub Command
-'''bash
+```bash
 1. Create the GitHub repo
 
 2. Clone the github repo in the terminal: https://github.com/
@@ -27,4 +27,4 @@ conda create interview
 
 5. Push the commit from the local to the remote repository: git push origin main
 
-'''
+```
