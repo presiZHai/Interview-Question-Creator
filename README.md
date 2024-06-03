@@ -1,12 +1,11 @@
 # Interview-Question-Generator
 
 ### Tech stacks
-* Langchain
-* Open AI
-* FastAPI
-* OpenAI (LLM)
-* Embedding model
-* FAISS
+* LangChain: Application framework for LLMs
+* OpenAI/Open Source (LLM): Language model provider
+* FastAPI: Web API framework (UI)
+* FAISS: Vector database (VectorDB), other examples: ChromaDB, Pinecone  
+* Embedding Model: Text to vector conversion (Text vectorization)
 
 
 ### Create a conda environment
